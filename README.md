@@ -60,6 +60,8 @@ The panel continuously follows the sun's movement, ensuring maximum solar radiat
   <img src="single-axis-solar-tracking-system-model.webp" width="500">
 </p>
 
+[![Project Demo](single-axis-solar-tracking-system-model.webp)](./Soalr%20Panel%20Rotating%20Along%20%20with%20Light%20Source.mp4)
+
 **Experimental Results:-**
 
 | Parameter                | Fixed Panel    | Tracking Panel |
