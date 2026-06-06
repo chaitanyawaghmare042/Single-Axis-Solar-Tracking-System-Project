@@ -1,16 +1,16 @@
-**☀️ Single Axis Solar Tracking System**
+**Single Axis Solar Tracking System**
 
-**Project Overview**
+**Project Overview:-**
 
 The Single Axis Solar Tracking System is an automatic mechanism that continuously adjusts the orientation of a solar panel to follow the movement of the sun throughout the day. The system uses Light Dependent Resistors (LDRs) to detect the direction of maximum sunlight and rotates the solar panel using a DC geared motor. By maintaining the panel perpendicular to the sun's rays, the system increases solar energy harvesting efficiency compared to a fixed solar panel installation.
 
-**💡 Proposed Solution**
+** Proposed Solution:-**
 
 Conventional fixed solar panels receive maximum sunlight only for a short period during the day. As the sun moves across the sky, the angle of incidence changes, reducing power generation.
 
 The proposed solution is a Single Axis Solar Tracking System that automatically rotates the solar panel from east to west based on sunlight intensity detected by two LDR sensors. The tracking mechanism ensures maximum exposure to sunlight and improves overall energy output.
 
-**📖 Project Description**
+** Project Description:-**
 
 This project consists of a solar panel mounted on a rotating structure driven by a DC geared motor. Two LDR sensors are placed on opposite sides of the panel. The sensors continuously monitor sunlight intensity.
 
@@ -18,7 +18,7 @@ When one LDR receives more sunlight than the other, the control circuit activate
 
 The project demonstrates the practical application of solar energy optimization and automatic control systems.
 
-**🎯 Objectives**
+** Objectives:-**
 
 1.To maximize solar energy collection.
 2.To improve the efficiency of solar power generation.
@@ -27,7 +27,7 @@ The project demonstrates the practical application of solar energy optimization 
 5.To demonstrate the application of sensors and motor control circuits.
 6.To promote renewable energy technologies.
 
-**Major Components**
+**Major Components:-**
 
 | Component                         | Rating / Specification | Quantity    |
 | --------------------------------- | ---------------------- | ----------- |
@@ -45,7 +45,7 @@ The project demonstrates the practical application of solar energy optimization 
 | Mounting Structure                | Wooden/Plastic Base    | 1           |
 
 
-**Working Principle**
+**Working Principle:-**
 
 The solar panel is mounted on a rotating platform connected to a DC geared motor.
 Two LDR sensors are positioned on opposite sides of the panel.
@@ -56,7 +56,7 @@ If the right LDR receives more sunlight, the motor rotates toward the right.
 When both LDRs receive equal sunlight, the comparator output becomes balanced and the motor stops.
 The panel continuously follows the sun's movement, ensuring maximum solar radiation is received.
 
-**Experimental Results**
+**Experimental Results:-**
 
 | Parameter                | Fixed Panel    | Tracking Panel |
 | ------------------------ | -------------- | -------------- |
@@ -66,7 +66,7 @@ The panel continuously follows the sun's movement, ensuring maximum solar radiat
 | Tracking Accuracy        | Not Applicable | Good           |
 | Energy Collection        | Moderate       | Higher         |
 
-**Observations**
+**Observations:-**
 
 1.The tracking system successfully followed the direction of sunlight.
 2.The solar panel maintained better alignment with solar rays throughout the day.
@@ -74,5 +74,5 @@ The panel continuously follows the sun's movement, ensuring maximum solar radiat
 4.The DC motor responded effectively to changes in sunlight intensity.
 
 
-**Conclusion**
+**Conclusion:-**
 The Single Axis Solar Tracking System was successfully designed and implemented. The project demonstrated automatic solar tracking using LDR sensors, comparator circuits, and a DC geared motor. The system effectively adjusted the solar panel position according to sunlight intensity, resulting in improved energy collection compared to a stationary solar panel. This project highlights the potential of low-cost solar tracking mechanisms for enhancing renewable energy utilization.
