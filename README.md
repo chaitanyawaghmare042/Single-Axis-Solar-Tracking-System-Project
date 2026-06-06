@@ -54,7 +54,11 @@ The LM358 comparator compares the outputs of both LDRs.
 If the left LDR receives more sunlight, the comparator activates the motor to rotate the panel toward the left.
 If the right LDR receives more sunlight, the motor rotates toward the right.
 When both LDRs receive equal sunlight, the comparator output becomes balanced and the motor stops.
-The panel continuously follows the sun's movement, ensuring maximum solar radiation is received.
+The panel continuously follows the sun's movement, ensuring maximum solar radiation is received. ## Hardware Prototype
+
+<p align="center">
+  <img src="single-axis-solar-tracking-system-model.webp" width="500">
+</p>
 
 **Experimental Results:-**
 
