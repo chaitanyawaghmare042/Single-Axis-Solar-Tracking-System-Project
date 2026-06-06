@@ -64,6 +64,10 @@ The panel continuously follows the sun's movement, ensuring maximum solar radiat
 
 [▶️ Watch Project Video](./Soalr%20Panel%20Rotating%20Along%20%20with%20Light%20Source.mp4)
 
+## Project Demonstration
+
+[▶️ Watch Working Video](https://raw.githubusercontent.com/chaitanyawaghmare042/Single-Axis-Solar-Tracking-System-Project/main/Soalr%20Panel%20Rotating%20Along%20with%20Light%20Source.mp4)
+
 **Experimental Results:-**
 
 | Parameter                | Fixed Panel    | Tracking Panel |
