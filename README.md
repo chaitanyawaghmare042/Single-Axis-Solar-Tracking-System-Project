@@ -1,4 +1,5 @@
 **☀️ Single Axis Solar Tracking System**
+
 **Project Overview**
 
 The Single Axis Solar Tracking System is an automatic mechanism that continuously adjusts the orientation of a solar panel to follow the movement of the sun throughout the day. The system uses Light Dependent Resistors (LDRs) to detect the direction of maximum sunlight and rotates the solar panel using a DC geared motor. By maintaining the panel perpendicular to the sun's rays, the system increases solar energy harvesting efficiency compared to a fixed solar panel installation.
@@ -56,6 +57,7 @@ When both LDRs receive equal sunlight, the comparator output becomes balanced an
 The panel continuously follows the sun's movement, ensuring maximum solar radiation is received.
 
 **Experimental Results**
+
 | Parameter                | Fixed Panel    | Tracking Panel |
 | ------------------------ | -------------- | -------------- |
 | Morning Output Voltage   | 4.2 V          | 5.4 V          |
@@ -65,6 +67,7 @@ The panel continuously follows the sun's movement, ensuring maximum solar radiat
 | Energy Collection        | Moderate       | Higher         |
 
 **Observations**
+
 1.The tracking system successfully followed the direction of sunlight.
 2.The solar panel maintained better alignment with solar rays throughout the day.
 3.Output voltage and energy generation increased compared to a fixed panel.
